@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Troupe Ding Ding Boulo</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+<img src="logo.png" alt="Logo Ding Ding Boulo" class="logo">
+<h1>Troupe Ding Ding Boulo</h1>
+<p>Formation musicale traditionnelle de Casamance – Sénégal</p>
+</header>
+
+<section class="bloc">
+<h2>Biographie</h2>
+<p>
+La Troupe Ding Ding Boulo est une formation musicale créée en 2000 à Ziguinchor, au Sénégal,
+par le maître percussionniste Keba Djigal, plus connu sous le nom de Keba Roumba. Visionnaire
+et innovateur, Keba Roumba est l’inventeur du terme Roumba ainsi que du rythme musical qui porte ce nom.
+</p>
+</section>
+
+<section class="bloc">
+<h2>Origine et signification</h2>
+<p>
+Le nom Ding Ding Boulo provient de la langue mandingue et signifie « la main de l’enfant ».
+Cette appellation symbolise l’héritage culturel et la transmission musicale aux jeunes générations.
+</p>
+</section>
+
+<section class="bloc">
+<h2>Instruments et style musical</h2>
+<p>
+Le Ding Ding Boulo incarne une rythmique typiquement mandingue articulée autour de deux instruments majeurs :
+</p>
+<ul>
+<li><strong>Le Roumba :</strong> composé de sept tambours : deux basses, trois accompagnements et deux solos.</li>
+<li><strong>Le Séourouba :</strong> instrument d’origine casamançaise structuré en base, accompagnement et solo.</li>
+</ul>
+<p>
+Autrefois, le Roumba animait mariages, baptêmes et meetings politiques.
+Keba Roumba se produisait alors en solo.
+</p>
+</section>
+
+<section class="bloc">
+<h2>Création de la troupe</h2>
+<p>
+En 2000, Keba Roumba décida d’unir le Roumba et le Séourouba en formant de jeunes musiciens,
+donnant naissance à la troupe Ding Ding Boulo, devenue une référence des rythmes traditionnels casamançais.
+</p>
+</section>
+
+<section class="bloc">
+<h2>Parcours et rayonnement</h2>
+<p>
+Depuis sa création, la troupe a participé à de nombreux festivals, notamment à Abéné et Kafountine,
+contribuant fortement à la vitalité culturelle de la région.
+</p>
+<p>
+En 2002, la troupe atteint une étape internationale en effectuant un voyage en Allemagne pour 90 concerts.
+Elle y retourna en 2004. Ces tournées ont ouvert le groupe au monde et renforcé sa réputation au-delà des frontières sénégalaises.
+</p>
+</section>
+
+<footer>
+© 2025 Troupe Ding Ding Boulo – Tous droits réservés
+</footer>
+</body>
+</html>
